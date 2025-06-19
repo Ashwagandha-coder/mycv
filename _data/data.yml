@@ -35,7 +35,7 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing Stairs
+    - item: Climbing Mountain
       link:
 
 
@@ -47,62 +47,60 @@ sidebar:
       link:
 
 
+
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am developing a mobile application. In particular for Android, but also for other platforms on cross-functional technologies (KMP). I participated in the development of various projects, of different sizes and many other parameters.
+    In my free time, I am fond of sports for health and fitness. For example hiking, cross-fit, cycling. 
+    I am sometimes read books and research information about how some things working in our world.
+    I also solve algorithmic problems, for example, I am interested in algorithms on graphs. I have some statistics on the layout of solutions to various problems.
 education:
-  title: Education
+  title: Higher
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+  - degree: Bachelor
+    university: Chelyabinsk State University
+    time: 2017 - 2021
+    
+  - degree: Magistr
+    university: Chelyabinsk State University
+    time: 2021 - 2023
+    
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Android Developer
+    time: 2023 - 2025
+    company: SBER
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
+      Development of three SDKs for Android applications.
+
+- Advertising
+
+- Tracking
+
+- Id
+
+Advertisement SDK. Development of SDK from scratch to release.
+
+Interesting tasks:
+1. Development of several native formats for displaying ads. They differ in the type and set of advertising parts.
+2. Adding video advertising. Using ExoPlayer to display and configure controls.
+
+3. Adding parts with preloading of advertising creative to current formats.
+4. Refactoring the architecture and writing test cases for SDK.
+
+Tracking SDK. Development and support of the current project
+1. Adding new events for user activity statistics in the application.
+2. Functionality with synchronization of several projects
+in SDK for tracking custom metrics.
+3. Logging
+4. Refactoring of current logic.
+
+Id SDK. Development of SDK from scratch. It is used to generate ids used for advertising.
+  - role: Android Developer
     time: 2014 - 2015
-    company: Google, London
+    company: Shift
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
