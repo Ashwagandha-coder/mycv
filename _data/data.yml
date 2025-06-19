@@ -75,51 +75,39 @@ experiences:
     details: |
       Development of three SDKs for Android applications.
 
-- Advertising
-
-- Tracking
-
-- Id
-
-Advertisement SDK. Development of SDK from scratch to release.
-
-Interesting tasks:
-1. Development of several native formats for displaying ads. They differ in the type and set of advertising parts.
-2. Adding video advertising. Using ExoPlayer to display and configure controls.
-
-3. Adding parts with preloading of advertising creative to current formats.
-4. Refactoring the architecture and writing test cases for SDK.
-
-Tracking SDK. Development and support of the current project
-1. Adding new events for user activity statistics in the application.
-2. Functionality with synchronization of several projects
-in SDK for tracking custom metrics.
-3. Logging
-4. Refactoring of current logic.
-
-Id SDK. Development of SDK from scratch. It is used to generate ids used for advertising.
+      - Advertising
+      
+      - Tracking
+      
+      - Id
+      
+      Advertisement SDK. Development of SDK from scratch to release.
+      
+      Interesting tasks
+      1. Development of several native formats for displaying ads. They differ in the type and set of advertising parts.
+      2. Adding video advertising. Using ExoPlayer to display and configure controls.
+      
+      3. Adding parts with preloading of advertising creative to current formats.
+      4. Refactoring the architecture and writing test cases for SDK.
+      
+      Tracking SDK. Development and support of the current project
+      1. Adding new events for user activity statistics in the application.
+      2. Functionality with synchronization of several projects
+      in SDK for tracking custom metrics.
+      3. Logging
+      4. Refactoring of current logic.
+      
+      Id SDK. Development of SDK from scratch. It is used to generate ids used for advertising.
   - role: Android Developer
     time: 2014 - 2015
     company: Shift
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      
 
 certifications:
   title: Certifications
